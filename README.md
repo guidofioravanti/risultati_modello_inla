@@ -26,7 +26,7 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 
 *What is the impact of isolated stations in data sparse regions like in Sicily?*
 
-**The impact of isolated stations can be desumed by the relative width of the posterior interquartile range maps (lower maps of Figure 7 and 8), which show the relative uncertainty of the predicted concentrations surface. Both daily and monthly maps highlight that the uncertainty is lower (white areas) where the network of the monitoring sites is denser and higher (brown areas) otherwise. This is particularly apparent in mountainous areas like the Alps in the North, the Appennine across the centre of Italy, and in the west-central Sicily which is covered by an irregular range (Sicanian Mountains).**
+**The impact of isolated stations can be desumed by the relative width of the posterior interquartile range maps (lower maps of Figure 7 and 8), which show the relative uncertainty of the predicted concentrations surface. Both daily and monthly maps highlight that the uncertainty is lower (white areas) where the network of the monitoring sites is denser and higher (brown areas) otherwise. This is particularly apparent in mountainous areas like the Alps in the North, the Appennine across the centre of Italy, and in the west-central Sicily which is covered by an irregular terrain (Sicanian Mountains).**
 
 *I am wondering if the evaluation on annual means would remove a lot of the effects of the daily noise. Did you try this?*
 
