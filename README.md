@@ -38,7 +38,7 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 
 *Concerning the choice of predictors one could also use of gridded PM emissions instead of imperviousness or modelled PM10/2.5 distributions the CAMS regional air quality service or a single CTM. Could you add a little discussion on potential further options to improve the predictor set? Now there are few lines on it.*
 
-**Thank you for this comment. We reviewed the "Conclusions" section, including a comment about the use of gridded PM emissions products to improve the predictive model performance.**
+**Thank you for this comment. We reviewed the "Conclusions" section, changing the position of the final sentence and including a comment about the use of gridded PM emissions products to improve the predictive model performance.**
 
 ## List of small suggestions:
 
