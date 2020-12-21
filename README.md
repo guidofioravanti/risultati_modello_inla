@@ -80,8 +80,6 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 
 **We have modified the sentence.**
 
-**MICHELA cosa intendiamo con "contaminated areas"?**
-
 *Line 163: How do these high values impact the results?*
 
 **In the section 3.2 (Validation section ) we have underlined that the model fails to reproduce very high PM10 concentrations (i.e., above 150 μg/m3). As an example, Figure 6 (urban time series, July) illustrates a situation where the model underestimates such high observations. However, the validation results indicate that, overall, our model provides a realistic description of the spatio-temporal variability of the PM10 concentrations. Specifically, our results show that the monthly models perform well both in the training and in the validation stage, with performance measures (credible interval, RMSE, correlation) having sensible results."**
