@@ -16,7 +16,7 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 
 *Second, I have the following questions and suggestions:*
 
-- *PM10 is measured with different techniques. Could you detect the impact of different techniques in the study? Or are the networks so well organized they use the same procedures?*
+*PM10 is measured with different techniques. Could you detect the impact of different techniques in the study? Or are the networks so well organized they use the same procedures?*
 
 **Chiesto a Giorgio**
 
