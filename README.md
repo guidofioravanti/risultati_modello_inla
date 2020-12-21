@@ -1,4 +1,4 @@
-# Risultati modello INLA
+# Spatio-temporal modelling of PM10 daily concentrations in Italy using the SPDE approach
 
 Dear Editor,
 
