@@ -13,8 +13,7 @@ The paper describes a nice application of statistical modelling to generate high
 First of all, I would like to advise to structure the paper a bit further by grouping al methodology aspects in to the methods section. 
 Now they are partly still in sections with results.
 
-    - **The structure of the "Materials and Methods" section was slightly changed. Now, it includes an "Implementation" subsection where the 
-    code and software details are explained. Originally, these pieces of informations were included in the "Results" section".**
+   - **The structure of the "Materials and Methods" section was slightly changed. Now, it includes an "Implementation" subsection where the code and software details are explained. Originally, these pieces of informations were included in the "Results" section".**
 
 Second, I have the following questions and suggestions:
 
