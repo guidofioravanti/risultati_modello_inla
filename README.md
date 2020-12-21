@@ -18,10 +18,6 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 
 *PM10 is measured with different techniques. Could you detect the impact of different techniques in the study? Or are the networks so well organized they use the same procedures?*
 
-**Chiesto a Giorgio**
-
-**Risposta Guido**
-
 **In Italy, over the last years the design of monitoring networks has being reviewed in line with the principles established by the Legislative Decree 155/2010. Revised monitoring networks are more compliant and more consistent, with better integration with other air quality assessment tools and therefore more appropriate for assessing exposure of the population and the environment as a whole.**
 
 *What is the impact of isolated stations in data sparse regions like in Sicily?*
@@ -44,9 +40,7 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 
 *Line 11: It would be stronger to mention the result of the study here. Fine or coarse? Can be used as a motivation why the focus on PM10 in stead of PM2.5.*
 
-**Michela: secondo me dice di riportare nel nostro paper, i principali risultati di Samoli che possono diventare una motivazione per il fatto che noi abbiamo usato PM10. Nel nostro paper potremmo scrivere "... particulate matter in ten Mediterranean metropolitan areas. In particular, for a 10-$\mu g/m^3$ increase in PM${2.5}$ concentrations on the day of the death and the previous one (lag 0-1), a 0.55%, 0.57% and 0.72% increase was estimated in all-cause, cardiovascular and respiratory mortality, respectively. PM${10}$ was positevely associated with all-cause mortality at lag 0-1 and to cardiovascular and respiratory mortality for longer periods of cumulative exposure (lag 0-5)."**
-
-**Nella risposta al revisore potremmo scrivere: "We have reported in the paper the main results from Samoli et al. (2013). However, our decision to analyse PM10 data instead of PM2.5 is motivated by the fact that in Italy we have more stations collecting data for PM10." Se questa è la motivazione per cui abbiamo scelto PM10. Eventualmente si potrebbe mettere il numero di stazioni che misurano PM2.5.**
+**"As suggested, we have reported in the paper the main results from Samoli et al. (2013). However, our decision to analyse PM10 data instead of PM2.5 is motivated by the fact that in Italy we have more stations collecting data for PM10."**
 
 *Line 46: I don't understand the term "frequentist". Could you explain what is meant by it?*
 
@@ -81,8 +75,6 @@ Please find enclosed a clean copy of the revised manuscript, as long as a highli
 *In line 143 use the term "monitoring stations" (in stead of "measurements" are located) Did you include al types of stations? Especially traffic/industrial are impacted by local source increments and I am curious how you treated those.*
 
 **We have changed "measurements" with "monitoring stations" as suggested by the reviewer. As for the monitoring stations included in the study: we confirm that we have included all kinds of stations; the only criterion we have used to exclude a station is the presence of too many missing data, as explained in the paper. For validation purposes, we have stratified the input stations according to their environment type classification: urban (294 stations in total), suburban (131) and rural (70). Our analysis did not consider the sources of local air pollution as a further classification criteria of the input stations. However, we know that urban stations include: background stations (146), industrial stations (8) and traffic stations (140). As for the the suburban stations, most of them are classified as foreground (77) and industrial (41) stations. Finally, most of the rural stations are background stations (54).**
-
-**MICHELA: forse dovremmo chiudere in qualche modo la frase perchè non abbia poi niente da chiederci in aggiunta. Non ha senso pensare di fare la figura 2 con anche la specifica del tipo di stazione? Potrebbe essere una giustificazione per non aver stratificato.**
 
 *Line 147-148 you say twice the same thing in the on the one hand/other hand. Maybe remove the whole sentence as it does not add so much to the story*
 
